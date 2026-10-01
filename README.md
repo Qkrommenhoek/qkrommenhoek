@@ -1,4 +1,4 @@
-###I'm Quinn Krommenhoek
+### I'm Quinn Krommenhoek
 
 I'm a software engineer and full-stack developer based in California, passionate about building robust backend services, scalable cloud architectures, and interactive spatial data applications.
 
